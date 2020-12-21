@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\BAN\.android\build-cache\415b06da653ee17fbe777ab47cdf1713f6baafd4\output\assets"/></dataSet><dataSet config="main"><source path="C:\DEV\WORKS\AndroidStudioProjects\AProject_Piano_Tiles\app\src\main\assets"/><source path="C:\DEV\WORKS\AndroidStudioProjects\AProject_Piano_Tiles\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\DEV\WORKS\AndroidStudioProjects\AProject_Piano_Tiles\app\src\debug\assets"/></dataSet></merger>
